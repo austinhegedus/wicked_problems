@@ -1,3 +1,1 @@
 # wicked_problems
-
-Hello
